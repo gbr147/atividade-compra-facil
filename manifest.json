@@ -1,0 +1,22 @@
+{
+  "name": "Compra Fácil",
+  "short_name": "Compra Fácil",
+  "description": "Loja de jogos digitais Compra Fácil.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#111827",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
